@@ -1,0 +1,113 @@
+Report Status,Name,Description,Triggered On:,Trigger/Status,Record Type,Modified Date,Permissions
+Active,Certificate of change - proposed,This is same version as Certificate of change - proposed (Obs tab) except it is used to trigger the report from Workflow tab as opposed to Obligations tab.,Dropdown Menu Selection,Workflow Tab Menu,,,RAPID Users
+Active,Certificate of change - proposed (Obs tab),This is same version as Certificate of change - proposed except it is used to trigger the report from Obligations tab as opposed to Workflow tab.,Dropdown Menu Selection,Obligation Tab Menu,,,RAPID Users
+Active,Consent - proposed,,Dropdown Menu Selection,Workflow Tab Menu,,,RAPID Users
+Active,Decline letter - proposed,,Dropdown Menu Selection,Workflow Tab Menu,,,RAPID Users
+Active,Financial compliance – contact,,Dropdown Menu Selection,Reference Contact Tab Menu,,12/08/2015,RAPID Users
+Active,Financial compliance – permit,,Dropdown Menu Selection,Record Tab Menu&#44; Summary Tab Menu,,10/11/2016,RAPID Users
+Active,Generate Annual Fee invoice to ADS,,Dropdown Menu Selection,Fee Tab Menu,,,RAPID Users
+Active,Generate Application invoice for ADS,,Dropdown Menu Selection,Fee Tab Menu,,,RAPID Admins&#44; Finance
+Active,Generate ERL/Royalty invoice to ADS,,Dropdown Menu Selection,Fee Tab Menu,,,RAPID Users
+Active,Permit certificate - proposed,This is same version as Permit certificate - proposed (Obs tab) except it is used to trigger the report from Workflow tab as opposed to Obligations tab.,Dropdown Menu Selection,Workflow Tab Menu,,,RAPID Users
+Active,Permit certificate - proposed (Obs tab),This is same version as Permit certificate - proposed except it is used to trigger the report from Obligations tab as opposed to Workflow tab.,Dropdown Menu Selection,Obligation Tab Menu,,,RAPID Users
+Active,Permit endorsement - proposed,,Dropdown Menu Selection,Workflow Tab Menu,,,RAPID Users
+Active,Public Users,,,,,,RAPID Admins
+Active,R001 Application submission confirmation,,Workflow Status Update,Script,,,RAPID Users
+Active,R001 Application submission confirmation (print),,Workflow Status Update,Script,,,RAPID Users
+Active,R001 Application submission confirmation ACA,,Workflow Status Update,Script,,,RAPID Users
+Active,R001 Application submission confirmation ACA (P),,Workflow Status Update,Script,,,RAPID Users
+Active,R002 Application acceptance,,Workflow Status Update,Script,,,
+Active,R002 Application acceptance (print),,Workflow Status Update,Script,,,
+Active,R003 Application rejection notice,,Workflow Status Update,Close Application > Generate Rejection Letter,MIN APPL&#44; MIN APPL TEN&#44; MIN CHANGE AMALG&#44; MIN CHANGE COMMEN…&#44; MIN CHANGE CONTROL&#44; MIN CHANGE DEALINGS&#44; MIN CHANGE NAME&#44; MIN CHANGE OP TRANS&#44; MIN CHANGE PERMIT&#44; MIN CHANGE SURRENDER&#44; MIN EXEMPTION&#44; MIN EXTENSION&#44; MIN SURVEY&#44; PET APPL&#44; PET CHANGE AMALG&#44; PET CHANGE COMMEN...&#44; PET CHANGE CONTROL&#44; PET CHANGE DEALINGS&#44; PET CHANGE NAME&#44; PET CHANGE OP TRANS&#44; PET CHANGE PERMIT&#44; PET CHANGE SURRENDER&#44; PET EXEMPTION&#44; PET EXTENSION&#44; PET FLARE&#44; PET SURVEY,,RAPID Users
+Active,R004 Confirmation of withdrawal,,Workflow Status Update,Script,,,RAPID Users
+Active,R004 Confirmation of withdrawal (print),,Workflow Status Update,Script,,,RAPID Users
+Active,R005 Consultation invitation (Iwi) mail merge,,Workflow Status Update,Contact Affected Parties > Generate Consultation Invitation (IWI) Mail Merge List,MIN APPL&#44; MIN CHANGE PERMIT&#44; PET APPL&#44; PET CHANGE PERMIT,,RAPID Users
+Active,R006 Consultation advice of outcome (generic),,Workflow Status Update,Script,,,RAPID Users
+Active,R008 Compliance history,Permit Participant Compliance Report shows information on minerals permit compliance,Dropdown Menu Selection,Reference Contact Tab Menu,,2/03/2017,RAPID Users
+In-active,R011 Permit Compliance History,NOT IN USE - This report is not published anywhere in RAPID or OPS. It lists all inspections categorized into inspection groups on a permit along with their statuses. It appears&#44; the intention was to deploy this to registered users of OPS but this was never done.,,,,,
+Active,R013 Permit certificate,,,,,,RAPID Users
+Active,R015 Intention to revoke notice,R015 Intention to revoke notice,Workflow Status Update,Prepare intention to revoke recommendation > Generate intention to revoke letter & notice,MIN REVOCATION&#44; PET REVOCATION,,RAPID Users
+Active,R017 Application decline notice,,Workflow Status Update,Communicate Outcome > Generate Decline Letter,MIN APPL&#44; MIN CHANGE AMALG&#44; MIN CHANGE COMMEN…&#44; MIN CHANGE CONTROL&#44; MIN CHANGE DEALINGS&#44; MIN CHANGE OP TRANS&#44; MIN CHANGE PERMIT&#44; MIN CHANGE SURRENDER&#44; MIN EXEMPTION&#44; MIN EXTENSION&#44; MIN SURVEY&#44; PET APPL&#44; PET CHANGE AMALG&#44; PET CHANGE COMMEN… PET CHANGE CONTROL&#44; PET CHANGE DEALINGS&#44; PET CHANGE OP TRANS&#44; PET CHANGE PERMIT&#44; PET CHANGE SURRENDER&#44; PET EXEMPTION&#44; PET EXTENSION&#44; PET FLARE&#44; PET SURVEY,,RAPID Users
+Active,R018 Certificate of change,,,,,,RAPID Users
+Active,R019 Permit endorsement,,,,,,RAPID Users
+Active,R021 Notice of unmet obligations,,,,,,RAPID Users
+Active,R021 Notice of unmet obligations (print),,,,,,RAPID Users
+Active,R021 NOU obligations (quality-detail),R021 notice of unmet obligations quality report (detail form),Dropdown Menu Selection,Inspections Tab Menu,,,RAPID Users
+Active,R021 NOU obligations (quality-supervisor),R021 notice of unmet obligations quality report (supervisor form),Dropdown Menu Selection,Inspections Tab Menu,,,RAPID Users
+Active,R022 Final notice of unmet obligations,,,,,,RAPID Users
+Active,R022 Final notice of unmet obligations (print),,,,,,RAPID Users
+Active,R022 FNOU obligations (quality-detail),R022 Final notice of unmet obligations (quality-detail form),Dropdown Menu Selection,Inspections Tab Menu,,,RAPID Users
+Active,R022 FNOU obligations (quality-supervisor),R022 Final notice of unmet obligations (quality-supervisor form),Dropdown Menu Selection,Inspections Tab Menu,,,RAPID Users
+Active,R023 NONC (quality-detail),R023 Notification of non-compliance (quality-detail form),Dropdown Menu Selection,Inspections Tab Menu,,,RAPID Users
+Active,R023 NONC (quality-supervisor),R023 Notification of non-compliance (quality-supervisor form),Dropdown Menu Selection,Inspections Tab Menu,,,RAPID Users
+Active,R023 Notification of non-compliance,,,,,,RAPID Users
+Active,R023 Notification of non-compliance (print),,,,,,RAPID Users
+Active,R036 Request for additional information,,Workflow Status Update,Check application&#44; Plot acerage&#44; Conduct initial evaluation&#44; Evaluate&#44; Replot acreage > Additional info required,MIN APPL&#44; MIN APPLY TEN&#44; MIN CHANGE AMALG&#44; MIN CHANGE COMMEN…&#44; MIN CHANGE CONTROL&#44; MIN CHANGE DEALINGS&#44; MIN CHANGE NAME&#44; MIN CHANGE OP TRANS&#44; MIN CHANGE PERMIT&#44; MIN CHANGE SURRENDER&#44; MIN EXEMPTION&#44; MIN REPLOT REQUES…&#44; MIN SURVEY&#44; PET APPL&#44; PET APPL PEP&#44; PET CHANGE AMALG&#44; PET CHANGE COMMEN...&#44; PET CHANGE CONTROL&#44; PET CHANGE DEALINGS&#44; PET CHANGE NAME&#44; PET CHANGE OP TRANS&#44; PET CHANGE PERMIT&#44; PET CHANGE SURRENDER&#44; PET EXEMPTION&#44; PET FLARE&#44; PET REPLOT REQUES&#44; PET SURVEY,,RAPID Users
+Active,R037 Request to confirm map,,Workflow Status Update,Obtain map acceptance&#44; Obtain replot acceptance > Generate request to confirm map,MIN APPL&#44; MIN APPL TEN&#44; MIN CHANGE AMALG&#44; MIN CHANGE PERMIT&#44; MIN REPLOT REQUES&#44; PET APPL&#44; PET CHANGE AMALG&#44; PET CHANGE PERMIT&#44; PET REPLOT REQUES,,RAPID Users
+Active,R038 Certificate of correction,,Workflow Status Update,Evaluate > Generate Certificate of correction,MIN CHANGE ERROR&#44; PET CHANGE ERROR,,RAPID Users
+In-active,R038 Change certificate,,,,,,
+Active,R039 Intention to decline letter,,Workflow Status Update,Evaluate > Generate intention to decline letter,MIN APPL&#44; MIN CHANGE AMALG&#44; MIN CHANGE COMMEN…&#44; MIN CHANGE CONTROL&#44; MIN CHANGE DEALINGS&#44; MIN CHANGE OP TRANS&#44; PET APPL&#44; PET CHANGE AMALG&#44; PET CHANGE COMMEN…&#44; PET CHANGE CONTROL&#44; PET CHANGE DEALINGS&#44; PET CHANGE OP TRANS&#44; PET CHANGE PERMIT&#44; PET CHANGE SURRENDER,,RAPID Users
+In-active,R040 Decline reasons,Renders a word template,Workflow Status Update,Evaluate > Generate decline reasons document,MIN APPL&#44; MIN CHANGE AMALG&#44; MIN CHANGE COMMEN&#44; MIN CHANGE CONTROL&#44; MIN CHANGE DEALINGS&#44; MIN CHANGE OP TRANS&#44; MIN CHANGE PERMIT&#44; MIN CHANGE SURRENDER&#44; MIN SURVEY&#44; PET APPL &#44; PET CHANGE AMALG&#44; PET CHANGE COMMEN…&#44; PET CHANGE CONTROL&#44; PET CHANGE DEALINGS&#44; PET CHANGE OP TRANS&#44; PET CHANGE PERMIT&#44; PET CHANGE SURRENDER&#44; PET FLARE&#44; PET SURVEY,,RAPID Users
+Active,R041 Applicant advice of grant,,Workflow Status Update,Communicate outcome > Generate certificate & grant letter,MIN APPL&#44; MIN CHANGE AMALG&#44; MIN CHANGE COMMEN…&#44; MIN CHANGE DEALINGS&#44; MIN CHANGE ERROR&#44; MIN CHANGE NAME&#44; MIN CHANGE OP TRANS&#44; MIN CHANGE PERMIT&#44; MIN CHANGE SURRENDER&#44; MIN CHANGE TIER&#44; MIN SURVEY&#44; PET APPL&#44; PET CHANGE AMALG&#44; PET CHANGE COMMEN…&#44; PET CHANGE DEALINGS&#44; PET CHANGE ERROR&#44; PET CHANGE NAME&#44; PET CHANGE OP TRANS&#44; PET CHANGE PERMIT&#44; PET CHANGE SURRENDER&#44; PET FLARE&#44; PET SURVEY,,RAPID Users
+Active,R042 Consent,,,,,,
+Active,R042 Consent - flare,,,,,,
+Active,R042 Consent - survey,,,,,,
+Active,R043 Change of control approval,,Workflow Status Update,Communicate outcome > Generate approval letter,MIN CHANGE CONTROL&#44; PET CHANGE CONTROL,,RAPID Users
+In-active,R043A Change of control approval,,,,,,
+Active,R044 Invoice application (email),,,,,,RAPID Users
+Active,R044 Invoice application (print),,,,,,RAPID Users
+Active,R044 Invoice application (V360 email),,,,,,RAPID Users
+Active,R044 Invoice application (V360 print),,,,,,RAPID Users
+Active,R044 Invoice non application,,,,,,RAPID Users
+Active,R044 Invoice non application (print),,,,,,RAPID Users
+Active,R044 Invoice permit (email),,,,,,RAPID Users
+Active,R044 Invoice permit (print),,,,,,RAPID Users
+In-active,R044a Invoice (Application Fees) v360,Invoice for Permit and Change Application Fees,,,,,
+Active,R044c Invoice (ERL),ERL Online Invoice - ACA,Dropdown Menu Selection,OPS Button,,,RAPID Users
+Active,R045 Receipt,,,,,,RAPID Users
+Active,R065 Financial Chase 1,,,,,,RAPID Users
+Active,R065 Financial Chase 1 (print),,,,,,RAPID Users
+Active,R065 Financial Chase 1 (unsaved),,,,,,RAPID Users
+In-active,R066 Chase 1 (Notice of unpaid invoice),,,,,,
+Active,R066 Notice of unpaid invoice,,,,,,RAPID Users
+Active,R066 Notice of unpaid invoice (print),,,,,,RAPID Users
+Active,R066 Notice of unpaid permit invoice,,,,,,RAPID Users
+Active,R066 Notice of unpaid permit invoice (print),,,,,,RAPID Users
+Active,R076 Consultation advice of outcome (specific resp,,Workflow Status Update,Complete Consultation > Generate final response,CONSULTATION,,RAPID Users
+Active,R077 Consultation submission received,,Workflow Status Update,Send correspondence > Generate Interim Response&#44; Generate Admin Response,CONSULTATION,,RAPID Users
+Active,R079 Intention to revoke cover letter,R079 Intention to revoke cover letter,Workflow Status Update,Prepare intention to revoke recommendation > Generate intention to revoke letter & notice,MIN REVOCATION&#44; PET REVOCATION,,RAPID Users
+Active,R080 Revocation notice cover letter,R080 Revocation notice cover letter,Workflow Status Update,Prepare revocation recommendation > Generate Revocation notice & letter,MIN REVOCATION&#44; PET REVOCATION,,RAPID Users
+Active,R081 Revocation notice,R081 Revocation notice,Workflow Status Update,Prepare revocation recommendation > Generate Revocation notice & letter,MIN REVOCATION&#44; PET REVOCATION,,RAPID Users
+Active,R082 Upcoming Obligations,,,,,,RAPID Users
+Active,R082 Upcoming Obligations (print),,,,,,RAPID Users
+Active,R084 Application summary,,Dropdown Menu Selection,Record Tab Menu,,,RAPID Users
+Active,R084 Change summary,,Dropdown Menu Selection,Record Tab Menu,,,RAPID Users
+Active,R084 Permit summary,,Dropdown Menu Selection,Record Tab Menu,,,RAPID Users
+Active,R085 Consultation invitation letter (bundled) - Canterbury,,,,,,
+Active,R085 Consultation invitation letter (bundled) - Nelson-Tasman-Marlborough ,,,,,,
+Active,R085 Consultation invitation letter (bundled) - North Island,,,,,,
+Active,R085 Consultation invitation letter (bundled) - Otago and Southland,,,,,,
+Active,R085 Consultation invitation letter (bundled) - WC and Tasman,,,,,,
+Active,R095 - Financial Summary Report,,Dropdown Menu Selection,Summary Tab Menu,,14/05/2015,RAPID Admins&#44; Petroleum Permit Officer&#44; Minerals Permit Officer&#44; Petroleum Geologist&#44; Minerals Geologist&#44; Finance&#44; Compliance
+Active,ROY-01,,,,,,RAPID Users
+Active,ROY-01 (print),,,,,,RAPID Users
+Active,ROY-02,,,,,,RAPID Users
+Active,ROY-02 (print),,,,,,RAPID Users
+Active,ROY-03,,,,,,RAPID Users
+Active,ROY-03 (print),,,,,,RAPID Users
+Active,ROY-04,,,,,,RAPID Users
+Active,ROY-04 (print),,,,,,RAPID Users
+Active,ROY-05,,,,,,RAPID Users
+Active,ROY-05 (print),,,,,,RAPID Users
+Active,ROY-06,,,,,,RAPID Users
+Active,ROY-06 (print),,,,,,RAPID Users
+Active,ROY-07,,,,,,RAPID Users
+Active,ROY-07 (print),,,,,,RAPID Users
+Active,ROY-08,,,,,,RAPID Users
+Active,ROY-08 (print),,,,,,RAPID Users
+Active,ROY-09,,,,,,RAPID Users
+Active,ROY-09 (print),,,,,,RAPID Users
+Active,ROY-12,,,,,,RAPID Users
+Active,ROY-12 (print),,,,,,RAPID Users
+Active,ROY-13,,,,,,RAPID Users
+Active,ROY-13 (print),,,,,,RAPID Users
